@@ -2,7 +2,7 @@
   "name": "dropdown-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prathamesh4512.github.io/Dropdown-React-App",
+  "homepage": "https://prathamesh4512.github.io/Dropdown-React-App/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
